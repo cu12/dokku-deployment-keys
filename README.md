@@ -16,11 +16,11 @@ If you need hostkeys being added to it, checkout [dokku-hostkeys-plugin](https:/
 ```shell
 # on 0.3.x
 cd /var/lib/dokku/plugins
-git clone https://github.com/cedricziel/dokku-deployment-keys.git deployment-keys
+git clone https://github.com/cu12/dokku-deployment-keys.git deployment-keys
 dokku plugins-install
 
 # on 0.4.x
-dokku plugin:install https://github.com/cedricziel/dokku-deployment-keys.git deployment-keys
+dokku plugin:install https://github.com/cu12/dokku-deployment-keys.git deployment-keys
 ```
 
 ## How does it work?
