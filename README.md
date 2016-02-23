@@ -1,4 +1,4 @@
-## SSH Deployment Keys Plugin for Dokku [![Build Status](https://travis-ci.org/cu12/dokku-deployment-keys.svg?branch=master "Build Status")](https://travis-ci.org/cedricziel/dokku-deployment-plugin)
+## SSH Deployment Keys Plugin for Dokku [![Build Status](https://travis-ci.org/cu12/dokku-deployment-keys.svg?branch=master "Build Status")](https://travis-ci.org/cu12/dokku-deployment-keys)
 
 Provides a Dokku Plugin for injecting SSH deployment keys to the container.
 
